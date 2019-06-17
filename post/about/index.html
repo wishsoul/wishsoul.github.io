@@ -3,8 +3,8 @@
     <meta charset="utf-8" />
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>关于 | Gridea</title>
-<link rel="shortcut icon" href="https://wishsoul.github.io/favicon.ico?v=1560744334748">
+<title>关于 | Bash&#39;s Ship</title>
+<link rel="shortcut icon" href="https://wishsoul.github.io/favicon.ico?v=1560745282053">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
 <link rel="stylesheet" href="https://wishsoul.github.io/styles/main.css">
@@ -20,13 +20,13 @@
       <div class="main-content">
         <div class="site-header">
   <a href="https://wishsoul.github.io">
-  <img class="avatar" src="https://wishsoul.github.io/images/avatar.png?v=1560744334748" alt="">
+  <img class="avatar" src="https://wishsoul.github.io/images/avatar.png?v=1560745282053" alt="">
   </a>
   <h1 class="site-title">
-    Gridea
+    Bash&#39;s Ship
   </h1>
   <p class="site-description">
-    温故而知新
+    消散愚昧
   </p>
   <div class="menu-container">
     
@@ -92,6 +92,32 @@
 
         
 
+        
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'a16aeca15dbcc7d86ebb',
+    clientSecret: '766213d6b18aab22e8d0e1a6257cebd5c0ec6eba',
+    repo: 'wishsoul.github.io',
+    owner: 'wishsoul',
+    admin: ['wishsoul'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
 
         <div class="site-footer">
