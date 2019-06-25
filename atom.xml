@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wishsoul.github.io</id>
     <title>Bash&apos;s Ship</title>
-    <updated>2019-06-19T06:27:38.080Z</updated>
+    <updated>2019-06-25T09:16:40.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wishsoul.github.io"/>
     <link rel="self" href="https://wishsoul.github.io/atom.xml"/>
@@ -17,7 +17,7 @@
         </link>
         <updated>2019-06-19T06:09:46.000Z</updated>
         <content type="html"><![CDATA[<div>
-<p style="text-align: justify;">整理者：吴炜峰 2010-11-26 	[原文链接](https://www.52cs.com/archives/1779)</p>
+<p style="text-align: justify;"> 整理者：吴炜峰 2010-11-26 	<a>https://www.52cs.com/archives/1779</a> </p>
 <p style="text-align: justify;">1．新账号上路！ 2010-11-26 13:59 通过网页</p>
 <p style="text-align: justify;">2．新开的账号 2010-11-26 14:26 通过网页</p>
 <p style="text-align: justify;">3．饭否证实，再潮的人，也会怀旧。 2010-11-26 15:44 通过网页</p>
